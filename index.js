@@ -46,7 +46,7 @@ client.on('messageCreate', (message) => {
           title: '**__Helpful Commands:__**',
           type: 'rich', // types: 'rich', 'image', 'video', 'gifv', 'article', 'link'
           color: 0xFF0056,  // Your embed color
-          description: '**/ping** - Ping, Pong command.\n:**/hello** - Custom message command.',  // Change your own Description inside Embed.
+          description: '**/ping** - Ping-Pong command.\n**/invite** - Invite Bot To Your Server.\n**/hello** - Custom message command.',  // Change your own Description inside Embed.
         },
       ],
     };
