@@ -1,0 +1,9 @@
+{
+  "name": "Discord Bot",  // Change to your discord bot name
+  "author": "r3mz0",
+  "publish": false,
+  "dependencies": {
+    "lib": "latest",
+    "discord.js": "^14.14.1"
+  }
+}
